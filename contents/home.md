@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![fiammetta4ever](https://img.shields.io/badge/Fiammetta4ever-github-blue?logo=github)](https://github.com/Fiammetta4ever)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I'm currently a graduate student in the Faculty of Science at National University of Singapore.
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: jiangaz[at]u.nus.edu
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+MSc., Data Science and Machine Learning, National University of Singapore, 2025—2026.\
+BSc., Mathematics and Applied Mathematics, Shanghai Jiao Tong University, 2020—2024.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Integer Programming, Logic and Topology.
