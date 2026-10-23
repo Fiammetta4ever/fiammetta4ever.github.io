@@ -2,7 +2,7 @@
 
 [![fiammetta4ever](https://img.shields.io/badge/Fiammetta4ever-github-blue?logo=github)](https://github.com/Fiammetta4ever)
 
-I'm currently a graduate student in the Faculty of Science at National University of Singapore.
+I am currently a graduate student in the Faculty of Science at National University of Singapore.
 
 #### Contact
 
